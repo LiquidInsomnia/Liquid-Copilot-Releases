@@ -1,6 +1,6 @@
 {
-  "app_version": "1.7.0",
-  "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v1.7.0/LiquidCopilot-Setup-v1.7.0.exe",
+  "app_version": "1.8.0",
+  "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v1.8.0/LiquidCopilot-Setup-v1.8.0.exe",
   "brain_version": 3,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
   "brain_sha256": "7edd8551c063c666b11a39b4a1278af3ec15253f04db9b19eace932f7eab7700",
