@@ -1,8 +1,8 @@
 {
   "app_version": "1.0.0",
   "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases",
-  "brain_version": 1,
+  "brain_version": 2,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
-  "brain_sha256": "4aa6196fa4d8c8c9f32e9dcb8e3e17f041cc0386c31b0691a847d88457ad8049",
-  "notes": "Baseline brain \u2014 the prompt shipping in v1.0.0."
+  "brain_sha256": "c53c40aa81f464a547e5975dce3f811d3bb9ef18936e22f37c52743fa4cbd7e3",
+  "notes": "Brain v2: Nova can state her own version \u2014 the updater's first live test."
 }
