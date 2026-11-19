@@ -1,33 +1,33 @@
 {
-  "app_version": "2.2.0",
-  "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.2.0/LiquidCopilot-Setup-v2.2.0.exe",
+  "app_version": "2.3.0",
+  "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.3.0/LiquidCopilot-Setup-v2.3.0.exe",
   "brain_version": 4,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
   "brain_sha256": "d6362e37611e739a9e94f933c9c02ae70bee3e78fce56e4ad7fb2aa49972de0a",
   "notes": "Brain v3: unisex by default \u2014 it follows the pilot's lead when personified.",
   "components": {
     "app": {
-      "version": "2.2.0",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.2.0/app-pack.zip",
-      "sha256": "979d1ee58d7ce83aeb2cac7bb4bfea90d0c7d0c55370f92b1a10151020d8400a",
-      "size": 29134707
+      "version": "2.3.0",
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.3.0/app-pack.zip",
+      "sha256": "0ed68dc3eacf91ed38f8c4e1e88f3ad6ab407bfd4799ee518327c726b87c782a",
+      "size": 29135468
     },
     "kokoro": {
       "version": "1",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.2.0/kokoro-pack.zip",
-      "sha256": "21c14c634c87957bd8b98ee49fe6bee50808ee7ad232fa0f5391001ea499a683",
-      "size": 571030653
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.3.0/kokoro-pack.zip",
+      "sha256": "0f5e5d11a12048114fbfd3bba43071e6c09ff919b9d0616704ca4db4690ab37d",
+      "size": 571030699
     },
     "hex": {
       "version": "1",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.2.0/hex-pack.zip",
-      "sha256": "8a46a6d7491c49054dc46e7886518062654b67de8200d2f2eb2e9d1ec2482dcf",
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.3.0/hex-pack.zip",
+      "sha256": "bd6de3c492744c95de763aee926da8fd931f037b644d9f2317abd6e7522aaae9",
       "size": 33128612
     },
     "tesseract": {
       "version": "1",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.2.0/tesseract-pack.zip",
-      "sha256": "71ca43645b52d6567fda0e7bf2aeb53ae6235e0271da2525990844fe9951fce5",
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.3.0/tesseract-pack.zip",
+      "sha256": "71b1778de53482ed3b6362f1f3eff12103ce11551d4cee49653bb172613e4ebf",
       "size": 45558626
     }
   }
