@@ -1,9 +1,9 @@
 {
   "app_version": "2.1.0",
   "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v2.1.0/LiquidCopilot-Setup-v2.1.0.exe",
-  "brain_version": 3,
+  "brain_version": 4,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
-  "brain_sha256": "7edd8551c063c666b11a39b4a1278af3ec15253f04db9b19eace932f7eab7700",
+  "brain_sha256": "d6362e37611e739a9e94f933c9c02ae70bee3e78fce56e4ad7fb2aa49972de0a",
   "notes": "Brain v3: unisex by default \u2014 it follows the pilot's lead when personified.",
   "components": {
     "app": {
