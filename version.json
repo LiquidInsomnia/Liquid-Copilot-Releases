@@ -1,10 +1,10 @@
 {
   "app_version": "3.1.1",
   "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.1/LiquidCopilot-Setup-v3.1.1.exe",
-  "brain_version": 4,
+  "brain_version": 5,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
-  "brain_sha256": "d6362e37611e739a9e94f933c9c02ae70bee3e78fce56e4ad7fb2aa49972de0a",
-  "notes": "Brain v3: unisex by default \u2014 it follows the pilot's lead when personified.",
+  "brain_sha256": "0d4436238075c8acd3c50332ca1d8bf08d02d01d2ee774b7759f556a02a8004b",
+  "notes": "Brain v5: speech punctuated for the ear - short sentences, one idea each, pauses at commas, a lift at questions.",
   "components": {
     "app": {
       "version": "3.1.1",
