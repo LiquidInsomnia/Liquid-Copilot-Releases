@@ -1,10 +1,10 @@
 {
   "app_version": "3.1.5",
   "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.5/LiquidCopilot-Setup-v3.1.5.exe",
-  "brain_version": 5,
+  "brain_version": 6,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
-  "brain_sha256": "0d4436238075c8acd3c50332ca1d8bf08d02d01d2ee774b7759f556a02a8004b",
-  "notes": "Brain v5: speech punctuated for the ear - short sentences, one idea each, pauses at commas, a lift at questions.",
+  "brain_sha256": "994ded929369cc6571a65d4816307e3c4a77bd94c5431696c796fff445b989ea",
+  "notes": "Brain v6: articulate speech -- complete sentences, punctuation that carries the pauses and inflection, numbers spoken for the ear -- and the standing rule that VoiceAttack alone fires commands; the co-pilot talks, answers, and remembers.",
   "components": {
     "app": {
       "version": "3.1.5",
