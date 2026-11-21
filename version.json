@@ -1,33 +1,33 @@
 {
-  "app_version": "3.1.8",
-  "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.8/LiquidCopilot-Setup-v3.1.8.exe",
+  "app_version": "3.1.9",
+  "app_url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.9/LiquidCopilot-Setup-v3.1.9.exe",
   "brain_version": 6,
   "brain_url": "https://raw.githubusercontent.com/LiquidInsomnia/Liquid-Copilot-Releases/main/brainpack.zip",
   "brain_sha256": "994ded929369cc6571a65d4816307e3c4a77bd94c5431696c796fff445b989ea",
   "notes": "Brain v6: articulate speech -- complete sentences, punctuation that carries the pauses and inflection, numbers spoken for the ear -- and the standing rule that VoiceAttack alone fires commands; the co-pilot talks, answers, and remembers.",
   "components": {
     "app": {
-      "version": "3.1.8",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.8/app-pack.zip",
-      "sha256": "a4d57cc6e0ae0864a1dc4e7334837939fed1febc94b66b8d0abb24b3651b85c1",
-      "size": 30671836
+      "version": "3.1.9",
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.9/app-pack.zip",
+      "sha256": "1c0b941531efd3cc23d99cc62c62d658f19db6dda56250dc170d0741c03b0331",
+      "size": 30677605
     },
     "kokoro": {
       "version": "1",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.8/kokoro-pack.zip",
-      "sha256": "4da00e1243884ac8d921ec7e4c61a867b1e353d6f03d4b4828cd3757a3849483",
-      "size": 571037353
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.9/kokoro-pack.zip",
+      "sha256": "3e9b5f2ddca85a1f4e109f18d0e24a4d926e6f02405076e75301520a5fe19505",
+      "size": 571030646
     },
     "hex": {
       "version": "1",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.8/hex-pack.zip",
-      "sha256": "2e82c8b29d50f232030a8ad0c0c70c3b2afb27d0a43a6d2a8dbcd6fb70bae6eb",
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.9/hex-pack.zip",
+      "sha256": "c65c956c67cd74d4613f89538126db9f2d34fbedfb298551f7163b2fe72861e1",
       "size": 33128612
     },
     "tesseract": {
       "version": "1",
-      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.8/tesseract-pack.zip",
-      "sha256": "bc5a4ccfed3d2e1cbc8a7b9204edbd53ebd62ce71542b5a261282ba6390f6aad",
+      "url": "https://github.com/LiquidInsomnia/Liquid-Copilot-Releases/releases/download/v3.1.9/tesseract-pack.zip",
+      "sha256": "deac47b33fd756643cbead8cbb1856cb9ec239ec53eca17bab78949e2732697e",
       "size": 45558626
     }
   }
